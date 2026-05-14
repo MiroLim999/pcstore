@@ -119,7 +119,7 @@ $body_class = 'login-page';
         </form>
 
         <p style="text-align:center; margin-top:20px; font-size:0.85rem; color:var(--text-muted);">
-            Don't have an account? <a href="<?= BASE_URL ?>register.php">Register here</a>
+            Don't have an account ma niga? <a href="<?= BASE_URL ?>register.php">Register here</a>
         </p>
     </div>
 </div>
